@@ -1,0 +1,10 @@
+---
+slug: :mikutter_wakaba
+depends:
+  mikutter: 3.2.0
+  plugin:
+  - gtk
+version: '0.0.1'
+author: myskng
+name: mikutter_wakaba
+description: 初心ツイッタラーに標識をつけます
